@@ -1,0 +1,4 @@
+<classpath>
+    <classpathentry kind="lib" path="WEB-INF/lib/javax.servlet-api-4.0.1.jar"/>
+    <!-- Other entries as needed -->
+</classpath>
