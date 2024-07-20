@@ -1,0 +1,2 @@
+WEB-INF\classes\com\example\webapp\*.class
+build\*.war
